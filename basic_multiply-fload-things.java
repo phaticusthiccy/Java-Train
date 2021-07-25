@@ -16,6 +16,10 @@ public class MultiplyTwoNumbers {
     }
 }
 
+/**
+* >> The product is: 3.0
+*/
+
 /** 
 Explanation of This Module
 */
